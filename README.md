@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋 I'm uPesy
 
-<!--
-**uPesy/uPesy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Visits Badge](https://badges.pufler.dev/visits/uPesy/uPesy)]()
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/_uPesy)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :fireworks:Top projects
+
+<a href="https://github.com/bouni/kicad-jlcpcb-tools">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin?username=uPesy&repo=easyeda2kicad.py&theme=react" />
+
+## :rocket:My stats 
+
+![uPesy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uPesy&show_icons=true&theme=react)
+
+![uPesy's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uPesy&theme=react&layout=compact&hide=makefile)
+
+## :gift:Support me
+
+<a href="https://ko-fi.com/I3I364QTM" target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" height="30px"/></a> <a href="https://www.buymeacoffee.com/bouni" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="30px"/></a> <a href="https://github.com/sponsors/Bouni" target="_blank"><img src="https://img.shields.io/badge/-Github Sponsor-fafbfc?style=flat&logo=GitHub%20Sponsors" height="30px"/></a>
