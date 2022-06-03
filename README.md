@@ -7,13 +7,13 @@
 ## :fireworks:Top projects
 
 <a href="https://github.com/uPesy/easyeda2kicad.py">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin?username=uPesy&repo=easyeda2kicad.py&theme=react" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin?username=uPesy&repo=easyeda2kicad.py&theme=prussian" />
 
 ## :rocket:My stats 
 
-![uPesy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uPesy&show_icons=true&theme=react)
+![uPesy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uPesy&show_icons=true&theme=prussian)
 
-![uPesy's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uPesy&theme=react&layout=compact&hide=makefile)
+![uPesy's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uPesy&theme=prussian&layout=compact&hide=makefile)
 
 ## :gift:Support me
 <a href="https://www.buymeacoffee.com/upesy" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="30px"/></a>
