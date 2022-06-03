@@ -6,7 +6,7 @@
 
 ## :fireworks:Top projects
 
-<a href="https://github.com/bouni/kicad-jlcpcb-tools">
+<a href="https://github.com/uPesy/easyeda2kicad.py">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin?username=uPesy&repo=easyeda2kicad.py&theme=react" />
 
 ## :rocket:My stats 
